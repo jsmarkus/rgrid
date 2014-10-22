@@ -1,0 +1,26 @@
+{
+  "name": "react-boiler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "reactify": "~0.14.0",
+    "gulp-browserify": "~0.5.0",
+    "gulp-plumber": "~0.6.5",
+    "gulp-uglify": "~1.0.1",
+    "gulp-jshint": "~1.8.4",
+    "gulp-react": "~1.0.0",
+    "jshint-stylish": "~0.4.0"
+  },
+  "dependencies": {
+    "keypather": "^1.7.5",
+    "lodash": "~2.4.1",
+    "react": "~0.11.1"
+  }
+}

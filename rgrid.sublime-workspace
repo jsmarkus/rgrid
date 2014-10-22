@@ -1,0 +1,2146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"scu	React: shouldComponentUpdate: fn(np, ns) { ... }"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"pro",
+				"props	React: this.props."
+			],
+			[
+				"ass",
+				"assetsListToMap"
+			],
+			[
+				"is",
+				"isCustomRow"
+			],
+			[
+				"tuplec",
+				"tuplesCount"
+			],
+			[
+				"clean",
+				"cleanMetrics"
+			],
+			[
+				"inver",
+				"_invert"
+			],
+			[
+				"a",
+				"annotations"
+			],
+			[
+				"get",
+				"getMetrics"
+			],
+			[
+				"data",
+				"dataApi"
+			],
+			[
+				"seco",
+				"secondaryModel"
+			],
+			[
+				"for",
+				"for of"
+			],
+			[
+				"defaults",
+				"defaults"
+			],
+			[
+				"result",
+				"resultScopeInterface"
+			],
+			[
+				"name",
+				"screenName"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fon-",
+				"font-weight"
+			],
+			[
+				"curo",
+				"customRows"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"flatte",
+				"flattenAndCompact"
+			],
+			[
+				"sele",
+				"selectedSchemas"
+			],
+			[
+				"trend",
+				"trendSeries"
+			],
+			[
+				"gro",
+				"groupByCompareSide"
+			],
+			[
+				"normal",
+				"normalizeSeriesData"
+			],
+			[
+				"y-",
+				"y-axis-changerate"
+			],
+			[
+				"col",
+				"columnDef"
+			],
+			[
+				"rowma",
+				"rowMaps2"
+			],
+			[
+				"x-",
+				"x-axis-primary"
+			],
+			[
+				"sec",
+				"secondarySeriesByColumn"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"y",
+				"y-axis-type"
+			],
+			[
+				"include",
+				"includeChangeRate"
+			],
+			[
+				"cha",
+				"chart2"
+			],
+			[
+				"Compa",
+				"ComparisonChart"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"selected",
+				"selectedCols"
+			],
+			[
+				"getMai",
+				"getMainDimension"
+			],
+			[
+				"random",
+				"randomize"
+			],
+			[
+				"clientf",
+				"clientFilteringCache"
+			],
+			[
+				"item",
+				"_item"
+			],
+			[
+				"close",
+				"closeAllCollapses"
+			],
+			[
+				"directive",
+				"directivelong	Angular.js"
+			],
+			[
+				"Лу",
+				"Луганская"
+			],
+			[
+				"Луга",
+				"Луганская"
+			],
+			[
+				"daysHis",
+				"daysHistoryRecord"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"cmd",
+				"cmdMarkerColor"
+			],
+			[
+				"filter",
+				"angular: $filter"
+			],
+			[
+				"offset",
+				"offsetHistory"
+			],
+			[
+				"landing",
+				"landing_id"
+			],
+			[
+				"index",
+				"selectionIndex"
+			],
+			[
+				"dayTo",
+				"dayToTime"
+			],
+			[
+				"dayToO",
+				"daysToOffset"
+			],
+			[
+				"select",
+				"selectionIndex"
+			],
+			[
+				"setStae",
+				"setStateIdle"
+			],
+			[
+				"isStat",
+				"isStateDragging"
+			],
+			[
+				"cmdb",
+				"cmdBarColor"
+			],
+			[
+				"cmdBa",
+				"cmdBarBorderSize"
+			],
+			[
+				"setTimeo",
+				"setTimeout"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"getHi",
+				"getHistoryRecordInDays"
+			],
+			[
+				"days",
+				"daysHistory"
+			],
+			[
+				"countr",
+				"country_id"
+			],
+			[
+				"affli",
+				"affiliateId"
+			],
+			[
+				"targ",
+				"targeting_countries_ids"
+			],
+			[
+				"Campaign",
+				"CampaignsData"
+			],
+			[
+				"deta",
+				"detailPager"
+			],
+			[
+				"target",
+				"target_net"
+			],
+			[
+				"netw",
+				"NetworksData"
+			],
+			[
+				"affili",
+				"affiliateId"
+			],
+			[
+				"histr",
+				"history"
+			],
+			[
+				"fillGapOf",
+				"fillGapOfEnd"
+			],
+			[
+				"scope",
+				"angular: $scope"
+			],
+			[
+				"camp",
+				"campaignId"
+			],
+			[
+				"detail",
+				"detailSelectedRows"
+			],
+			[
+				"Cma",
+				"CampaignsData"
+			],
+			[
+				"suppo",
+				"supportGift"
+			],
+			[
+				"suppor",
+				"supportCPI"
+			],
+			[
+				"supp",
+				"supportCPI"
+			],
+			[
+				"Edit",
+				"EditDialog"
+			],
+			[
+				"_dragInterval",
+				"_dragIntervalRight"
+			],
+			[
+				"ZOOM",
+				"ZOOMING_ANIMATION_DURATION"
+			],
+			[
+				"day",
+				"dayToOffset"
+			],
+			[
+				"offse",
+				"offsetToDay"
+			],
+			[
+				"offs",
+				"offsetToDay"
+			],
+			[
+				"_stopma",
+				"_stopMarkerByStop"
+			],
+			[
+				"selecte",
+				"_selectedStop"
+			],
+			[
+				"isSta",
+				"isStateWaitDrag"
+			],
+			[
+				"statedra",
+				"setStateDragging"
+			],
+			[
+				"setSta",
+				"setStateWaitDrag"
+			],
+			[
+				"STATE_W",
+				"STATE_WAIT_DRAG"
+			],
+			[
+				"_stop",
+				"_stopMarkerByStop"
+			],
+			[
+				"_st",
+				"_stopMarkersByGuid"
+			],
+			[
+				"w",
+				"w-resize"
+			],
+			[
+				"_",
+				"_stopsByDay"
+			],
+			[
+				"CLASS_STOP",
+				"CLASS_STOP_CONTAINER"
+			],
+			[
+				"CLASS_INTER",
+				"CLASS_INTERVAL_CONTAINER"
+			],
+			[
+				"ZOO",
+				"ZOOMING_RESOLUTION"
+			],
+			[
+				"STATE",
+				"STATE_DRAGGING"
+			],
+			[
+				"_onStopMouse",
+				"_onStopMouseUp"
+			],
+			[
+				"Харько",
+				"Харьковская"
+			],
+			[
+				"verb",
+				"httpVerb"
+			],
+			[
+				"regist",
+				"registry"
+			],
+			[
+				"state",
+				"stateMap"
+			],
+			[
+				"SVN",
+				"SVN_EXE"
+			],
+			[
+				"ang",
+				"angular	Angular.js"
+			],
+			[
+				"middle",
+				"middleY"
+			],
+			[
+				"GeoM",
+				"GeometryAssets"
+			],
+			[
+				"PREF_",
+				"PREF_KEY_DRILLPATH"
+			],
+			[
+				"indices",
+				"indicesByKey"
+			],
+			[
+				"indice",
+				"indicesByKey"
+			],
+			[
+				"umd",
+				"umdr	UMD—AMD, Node, or browser global"
+			],
+			[
+				"maxArea",
+				"maxAreaAndSize"
+			],
+			[
+				"ng-d",
+				"ng-disabled"
+			],
+			[
+				"encode",
+				"encodeItemPut"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"markersByScreenName	{}"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"p",
+				"primary	(?)"
+			],
+			[
+				"con",
+				"context	{}"
+			],
+			[
+				"pr",
+				"primaryMetricSchemes	(?)"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"t",
+				"tinycolor.js"
+			],
+			[
+				"metr",
+				"metricsCount"
+			],
+			[
+				"norma",
+				"normalizedItems"
+			],
+			[
+				"elemen",
+				"angular.element"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rgrid.sublime-project",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/grid.jsx",
+			"settings":
+			{
+				"buffer_size": 2340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app.jsx",
+			"settings":
+			{
+				"buffer_size": 3414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/resources/directives/applications/applications.js",
+			"settings":
+			{
+				"buffer_size": 2247,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"jsx",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"snippet co",
+				"Snippet: React: component skeleton"
+			],
+			[
+				"snippet reac mou",
+				"Snippet: React: componentDidMount: fn() { ... }"
+			],
+			[
+				"react initi",
+				"Snippet: React: getInitialState: fn() { return {...} } "
+			],
+			[
+				"propty",
+				"Snippet: React: propTypes { ... }"
+			],
+			[
+				"reac",
+				"Snippet: React: propTypes { ... }"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"roih",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"todone",
+				"Set Syntax: ToDone"
+			],
+			[
+				"todo",
+				"Set Syntax: ToDone"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter sav",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"hint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"linter gu",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"lint e",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrao",
+				"Word Wrap: Toggle"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"css",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"format",
+				"Format CSS: Expanded"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"div",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Autocomplete file name"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"expand",
+				"Format CSS: Expanded"
+			],
+			[
+				"web in",
+				"Web Inspector"
+			],
+			[
+				"web i",
+				"Web Inspector"
+			],
+			[
+				"web ins",
+				"Web Inspector"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"expan",
+				"Format CSS: Expanded"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"c",
+				"Set Syntax: C#"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"expa",
+				"Format CSS: Expanded"
+			],
+			[
+				"exp",
+				"Format CSS: Expanded"
+			],
+			[
+				"jumptodef",
+				"TernJS: Jump to definition"
+			],
+			[
+				"tern",
+				"TernJS: Jump to definition"
+			],
+			[
+				"basev",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"err",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"umd",
+				"Snippet: UMD—AMD or browser global"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"Lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"for",
+				"Format CSS: Expanded"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"amd",
+				"AMDtools: List module dependencies"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"forma",
+				"Format CSS: Expand"
+			],
+			[
+				"form",
+				"Format CSS: Expand"
+			],
+			[
+				"balme",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"syntax gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"jum",
+				"TernJS: Jump to definition"
+			],
+			[
+				"ju",
+				"TernJS: Jump to definition"
+			],
+			[
+				"um",
+				"Snippet: UMD—AMD or browser global"
+			],
+			[
+				"mdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"javac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"patter",
+				"Snippet: JS singleton pattern"
+			],
+			[
+				"jspatt",
+				"Snippet: JS revealing module pattern"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"ter",
+				"TernJS: Reload"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"jumpto",
+				"TernJS: Jump to definition"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"CASE",
+				"Convert Case: Swap Case"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"svn bl",
+				"SVN: (File) Blame"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"WAP",
+				"Convert Case: Swap Case"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ang",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"angu",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 591.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src"
+	],
+	"file_history":
+	[
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/index.js",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/metric.jsx",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/grid.jsx",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/dimension.jsx",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/app.jsx",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/resources/directives/comparison-chart/comparison-chart.js",
+		"/C/Users/m.garnik/code/Server/AnalysisServices/Web.Console/Command.cs",
+		"/C/Users/m.garnik/code/Server/Nords/Service.Segment/ClassmatesOffer.ashx",
+		"/C/Users/m.garnik/code/Server/Admin/Web/crossdomain.xml",
+		"/C/Users/m.garnik/code/Server/Utils/PlariumDeployment/Core/Contracts/Dto/RestartIISDto.cs",
+		"/C/Users/m.garnik/code/Server/Utils/AdCampaignCPITest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+		"/C/Users/m.garnik/code/Server/Dependencies/NodaTime-1.1.0/docs/api/html/T_NodaTime_Utility_InvalidNodaDataException.htm",
+		"/C/Users/m.garnik/code/Server/SSRS/UtilityReports/UtilityReports.rptproj",
+		"/C/Users/m.garnik/code/Server/SSRS/ProductionReports/USD Trend.rdl",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/unsyncalert.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/resources/directives/drillpath/drillpath.html",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Features/Shared/Dimension/DrillPathAndDate.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Features/Shared/Dimension/AdsDrillPathDao.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Features/Shared/DataViews/DrillPathStorage.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Common/DataViews/DrillPaths/DrillPath.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/src/utils/drill-path.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/test/spec/directives/drillpath.js",
+		"/C/Users/m.garnik/code/Server/SSRS/ProductionReports/DailyReport.rdl",
+		"/C/Users/m.garnik/code/Server/Dependencies/Json.net40r2/Documentation.chm",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/resources/directives/comparison-tooltip/comparison-tooltip.js",
+		"/C/Users/m.garnik/code/Server/Geotopia/TestConsole/Serialization/CompressionTest.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/src/object-template/annotations-chart.js",
+		"/C/Users/m.garnik/code/Server/Global/AuthServer/Global/Model/Emails/TemplateManager.cs",
+		"/C/Users/m.garnik/code/Server/Utils/Facebook/OpenGraphManagement/OGManagementTool/Content/templates/ogObjectTemplate.txt",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/bower_components/lodash-amd/compat/utilities/templateSettings.js",
+		"/C/Users/m.garnik/code/Server/SSRS/ObsoleteReports/temp_Deposits.rdl",
+		"/C/Users/m.garnik/code/Server/Base/Model/Common/Performance/Snapshots/SnapshotEmailSender.cs",
+		"/C/Users/m.garnik/code/Server/Dependencies/NodaTime-1.1.0/docs/api/html/Overload_NodaTime_Duration_Equals.htm",
+		"/C/Users/m.garnik/code/Server/Dependencies/ParallelExtensionsExtras/Src/TaskSchedulers/OrderedTaskScheduler.cs",
+		"/C/Users/m.garnik/code/Server/Utils/PaymentProxy/Odnoklassniki.ashx",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/news/src/entities/topic.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/rule-notifications/rule-notifications.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/rule-notifications/rule-notifications.html",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/news/resources/directives/update-notifications/update-notifications.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/src/entities/rule.js",
+		"/C/Users/m.garnik/code/Server/Dependencies/NodaTime-1.1.0/docs/api/html/N_NodaTime_Serialization_JsonNet.htm",
+		"/C/Users/m.garnik/code/Server/Utils/MobileAuthServer/Data/NotificationDao.cs",
+		"/C/Users/m.garnik/code/Server/Dependencies/DataAnnotationsExtensions.0.6.0.0/DataAnnotationsExtensions.0.6.0.0.nupkg",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Common/DataViews/Navigation/DataViewNavResponse.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Common/DataViews/Navigation/DataViewNav.cs",
+		"/C/Users/m.garnik/code/Server/Utils/MobileAuthServer/Database.sql",
+		"/C/Users/m.garnik/code/Server/AnalysisServices/Model/Logic/Dimensions/Common/DimAchievementType.cs",
+		"/C/Users/m.garnik/code/Server/SSRS/ObsoleteReports/dbAdmin.rds",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/app-includes.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/_boot.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/resources/configs/routing.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/resources/directives/data-grid/data-grid.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/resources/directives/data-grid/data-grid.html",
+		"/C/Users/m.garnik/code/Server/Utils/SupportChat/Chat/Content/js/bootstrap.min.js",
+		"/C/Users/m.garnik/code/Server/Utils/SupportChat/Chat/Content/js/bootstrap.js",
+		"/C/Users/m.garnik/code/Server/Utils/PriceGS/PriceGS.Api/Web/app/boot.js",
+		"/C/Users/m.garnik/code/Server/Utils/Kpi/KpiTool/KpiAggregators/BoostAggregator.cs",
+		"/C/Users/m.garnik/code/Server/Dependencies/Json.net40r2/Source/Src/Newtonsoft.Json/Bson/BsonObjectId.cs",
+		"/C/Users/m.garnik/code/Server/Base/Model/BuildInfo.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/src/url/roi.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/src/url/roi2.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/src/query/stats.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/src/marshalling/stats/chart.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/controllers/stats.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/resources/templates/roi2.html",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/resources/templates/roi.html",
+		"/C/Users/m.garnik/code/Server/Tracker/AffiliateStrategies/Portal/RadiumOneAffiliate.cs",
+		"/C/Users/m.garnik/code/Server/Dependencies/repositories.config",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/src/marshalling/stats/table.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/controllers/triggers.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/src/data/stats.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/src/marshalling/triggers/trigger-query.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/angularjs/angular.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/admin/controllers/users.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/annotations/controllers/annotations.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/controllers/mass-mailing.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/controllers/split-test-statistics.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/controllers/split-tests-list.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/src/utils/base-view.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/controllers/revenue.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/admin/controllers/roles.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/admin/controllers/cpl.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/jquery-ui/jquery-ui-1.8.21.custom.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/jquery-ui/jquery-ui-1.8.20.custom.min.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/highcharts1.3.1/modules/data.src.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/highcharts1.3.1/modules/data.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/jquery-1.7.2.js",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/style.css",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/payments/controllers/roi.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/src/context/grid.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/tracker/resources/templates/advertising.html",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/index.html",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/resources/configs/api.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/src/data/statistics.js",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/gulpfile.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/emails/src/marshalling/split-tests/config.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Api/Emails/MailSplitTestsController.cs",
+		"/C/Users/m.garnik/code/Server/Base/Model/Common/Performance/ProfilerEmailSettings.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Areas/Emails/EmailsAreaRegistration.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Data/Emails/EmailsData.cs",
+		"/C/Users/m.garnik/code/Server/Tracker/AffiliateStrategies/Portal/EpomAffiliate.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Common/Managers/EntitieManager.cs",
+		"/C/Users/m.garnik/code/Server/Admin/WebLite/error.aspx",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/metric.js",
+		"/C/Users/m.garnik/code/Server/Tracker/AffiliateStrategies/Portal/ReachAdAffiliate.cs",
+		"/C/Users/m.garnik/code/Server/Tracker/Common/Entities/RegAction.cs",
+		"/C/Users/m.garnik/code/Server/AnalysisServices/Model/Logic/Transform/Raw/RawExchangeTransformer.cs",
+		"/C/Users/m.garnik/code/Server/Utils/Kpi/KpiTool/GameContext.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/src/context/context.js",
+		"/C/Users/m.garnik/code/Server/Utils/ContractGenerator/ContractGenerator.csproj",
+		"/C/Users/m.garnik/code/Server/Tracker/Service/Conversion.ashx",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Data/Ad/Stats/Yandex/YaAdStatsItem.cs",
+		"/C/Users/m.garnik/code/Server/Sparta/Model/Data/Master/DataEntities/SpartaStaticData.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Common/DataSets/DataSetMapping.cs",
+		"/C/Users/m.garnik/code/Server/Dependencies/NodaTime-1.1.0/docs/api/scripts/CookieDataStore.js",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Common/DataSets/DataSet.cs",
+		"/C/Users/m.garnik/code/Server/Admin/Model/Data/Ad/Advert.cs",
+		"/C/Users/m.garnik/code/Server/Tracker/Common/Entities/AdsData.cs",
+		"/C/Users/m.garnik/code/Server/Admin/TestConsole/app.config",
+		"/C/Users/m.garnik/code/OPEN-SOURCE/rgrid/src/app.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/asset-affiliate/asset-affiliate.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/dynamic-asset/dynamic-asset.html",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/dimension-assets/dimension-assets.html",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/dynamic-asset/dynamic-asset.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/asset-label/asset-label.html",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/asset-label/asset-label.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/resources/directives/drillpath/drillpath.js",
+		"/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/app/resources/directives/dimension2/dimension2.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"",
+			"*.cs",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.less",
+			"*.js",
+			"",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.cshtml",
+			"*.js",
+			"*.cshtml",
+			"*.less",
+			"*.html",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.cs",
+			"*.less",
+			"*.cs",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.cshtml",
+			"*.js",
+			"*.cs",
+			"*.cshtml",
+			"*.less",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.cshtml",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.cshtml",
+			"*.js",
+			"*.cshtml",
+			"*.js",
+			"*.less",
+			"*.js",
+			"*.cs",
+			"*.cshtml",
+			"*.less",
+			"*.cshtml",
+			"*.js",
+			"*.cshtml",
+			"*.less",
+			"*.cshtml",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hasAppRestrictions",
+			"/current",
+			"Has_App_Restriction",
+			"HasAppsRestriction",
+			"HasAppRestriction",
+			"HasAppRestrictions",
+			"filter",
+			"cell",
+			"_renderBodyCell",
+			"rowIndex",
+			"_renderBodyRow",
+			"_renderBodyCell",
+			"colspan",
+			"rowspan",
+			"map",
+			".map",
+			"span",
+			"map",
+			"path",
+			"app.entity.rule",
+			"no new notifica",
+			"Topic",
+			"Entity",
+			"news.entity.topic",
+			"repea",
+			"setSourceIds",
+			"fillSourceId",
+			"StatsData",
+			"TriggersList",
+			"MassMailingList",
+			"source",
+			"StatsData",
+			"Metric",
+			"emails.mass-mailing",
+			"emails.mass-mailing.list",
+			"setSourceIds",
+			"source_object_ids",
+			": f",
+			"Cell",
+			"Math.floor(",
+			"bar",
+			"templateByKind",
+			"draw:",
+			"cache",
+			"_renderRow",
+			"_renderCell",
+			"_renderRow",
+			"_renderCell",
+			"props",
+			"FieldDef",
+			"PropTypes",
+			"propTypes",
+			"Proptypes",
+			"th",
+			"App",
+			"indexBy",
+			"span",
+			".grid-row-custom-totals, ",
+			"grid-ce",
+			"minu",
+			"concatenateSections",
+			"'no-hover'",
+			"grid-cell-com",
+			"rowsp",
+			"makeDimensionHeader",
+			"rowspan",
+			"gridconte",
+			"link",
+			"renderTemplate",
+			"render",
+			" modified:  ",
+			"   ",
+			"\n",
+			"\n ",
+			"loaded.drillPath",
+			"loaded.d",
+			"uiUpdateLoadedFilter",
+			"loaded.drillPath",
+			"ngModelController",
+			"tabs",
+			"zipObject",
+			"pairs",
+			"down",
+			"export",
+			".clean",
+			"ScopeToQuery",
+			"name",
+			"schema",
+			"data",
+			"ContextCleaner",
+			"ContextGrid",
+			"GridContextService",
+			"contextCleaner",
+			"@@@@@@@@",
+			"cleared",
+			"clean",
+			"leaner",
+			"filter",
+			"map",
+			"$scope",
+			"onUrlDecoded",
+			"GridContextService",
+			"isArray",
+			"filter",
+			"IncludeViral",
+			"scopeto",
+			"viral",
+			"includeV",
+			"affiliateId",
+			"attr",
+			"values",
+			":",
+			"targetCluster",
+			"\n",
+			":",
+			"-Id",
+			"country",
+			"usersLookup",
+			"getUsers",
+			"users",
+			"app",
+			"appId",
+			"app",
+			"onResetFn",
+			"onrese",
+			"onch",
+			"oncha",
+			"onResetFn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"activeRecord",
+			"y",
+			"payments.query.revenue",
+			"payments.query.roi",
+			"payments.fixture.context",
+			"payments.fixture.roi",
+			"payments.data.roi",
+			"payments.data.revenue",
+			"marketing.data.columns",
+			"marketing.context.timeline",
+			"marketing.context.grid",
+			"marketing.utils.urlParams",
+			"marketing.utils.timerange",
+			"marketing.data.networks",
+			"marketing.data.devices",
+			"marketing.data.countries",
+			"marketing.data.campaigns",
+			"marketing.data.applications",
+			"marketing.data.affiliates",
+			"marketing.utils.arrayUnpacker",
+			"marketing.utils.tooltipFormatter",
+			"marketing.utils.date",
+			"marketing.utils.jsonSchemaValidator",
+			"marketing.schema.type",
+			"marketing.schema.subtotal",
+			"marketing.schema.row",
+			"marketing.schema.report",
+			"marketing.schema.paging",
+			"marketing.schema.metric",
+			"marketing.schema.dimension",
+			"marketing.schema.combined",
+			"marketing.schema.columns",
+			"Marketing.Schema",
+			"timelineChangeRate",
+			"changeRate",
+			"ChangeRate",
+			"}\\n\\n",
+			"angular.",
+			" ",
+			"",
+			"setColumnVisible"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rgrid.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "json",
+							"buffer_scroll_name": "f128407e",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/grid.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								902,
+								902
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "ffddfcc1",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/ReactJS/syntax/jsx/tmLanguage/JavaScript (JSX).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 111.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1597,
+								1597
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "e860f28b",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/ReactJS/syntax/jsx/tmLanguage/JavaScript (JSX).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/m.garnik/code/Server/Admin/Web/Scripts/src/app/modules/marketing/resources/directives/applications/applications.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "8714a917",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.amdtools_view":
+	{
+		"height": 148.0
+	},
+	"output.exec":
+	{
+		"height": 463.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rgrid.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"grid.jsx"
+			],
+			[
+				"compachart",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\helper\\comparison-chart.js"
+			],
+			[
+				"utildrillpat",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\drill-path.js"
+			],
+			[
+				"resdirdrillpath",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\drillpath\\drillpath.js"
+			],
+			[
+				"compargrid",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\helper\\comparison-grid.js"
+			],
+			[
+				"otemplatech",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\object-template\\statistic-chart.js"
+			],
+			[
+				"datanotifjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\news\\resources\\directives\\update-notifications\\update-notifications.js"
+			],
+			[
+				"datag",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\data-grid\\data-grid.js"
+			],
+			[
+				"bootjs",
+				"Admin\\Web\\Scripts\\src\\app\\_boot.js"
+			],
+			[
+				"datagrid",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\data-grid\\data-grid.html"
+			],
+			[
+				"urlroi2",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\url\\roi2.js"
+			],
+			[
+				"emailsconfapi",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\emails\\resources\\configs\\api.js"
+			],
+			[
+				"contextgrid",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\context\\grid.js"
+			],
+			[
+				"roijs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\controllers\\roi.js"
+			],
+			[
+				"roih",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\templates\\roi.html"
+			],
+			[
+				"datastatistjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\src\\data\\statistics.js"
+			],
+			[
+				"adverthtml",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\tracker\\resources\\templates\\advertising.html"
+			],
+			[
+				"roiht",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\templates\\roi.html"
+			],
+			[
+				"urlparams",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\url-params.js"
+			],
+			[
+				"drillpajs",
+				"Admin\\Web\\Scripts\\src\\test\\spec\\directives\\drillpath.js"
+			],
+			[
+				"urlroi",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\url\\roi.js"
+			],
+			[
+				"imension2js",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension2\\dimension2.js"
+			],
+			[
+				"dynasset",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dynamic-asset\\dynamic-asset.js"
+			],
+			[
+				"asslabelh",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-label\\asset-label.html"
+			],
+			[
+				"asslabel",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-label\\asset-label.js"
+			],
+			[
+				"dimension2js",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension2\\dimension2.js"
+			],
+			[
+				"dynamicass",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dynamic-asset\\dynamic-asset.html"
+			],
+			[
+				"dmensioassets",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension-assets\\dimension-assets.html"
+			],
+			[
+				"dimension2",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension2\\dimension2.html"
+			],
+			[
+				"asset-affiliateh",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-affiliate\\asset-affiliate.html"
+			],
+			[
+				"assetaff",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-affiliate\\asset-affiliate.html"
+			],
+			[
+				"compchhtml",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\comparison-chart\\comparison-chart.html"
+			],
+			[
+				"resdirmetricjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\metric\\metric.js"
+			],
+			[
+				"tableless",
+				"Admin\\Web\\Style\\less\\tables.less"
+			],
+			[
+				"roiperiod",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\filter\\resources\\directives\\filter-item-roi-period\\filter-item-roi-period.html"
+			],
+			[
+				"roihtml",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\templates\\roi.html"
+			],
+			[
+				"hlpcompagrid",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\helper\\comparison-grid.js"
+			],
+			[
+				"roi2",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\templates\\roi2.html"
+			],
+			[
+				"dimtab",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension-tabs\\dimension-tabs.html"
+			],
+			[
+				"advehtml",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\tracker\\resources\\templates\\advertising.html"
+			],
+			[
+				"roi2ht",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\templates\\roi2.html"
+			],
+			[
+				"conroi2js",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\controllers\\roi2.js"
+			],
+			[
+				"diredrillpa",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\drillpath\\drillpath.js"
+			],
+			[
+				"utilsdrillpath",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\drill-path.js"
+			],
+			[
+				"dimtabs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension-tabs\\dimension-tabs.js"
+			],
+			[
+				"directdrillpa",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\drillpath\\drillpath.js"
+			],
+			[
+				"utidrillp",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\drill-path.js"
+			],
+			[
+				"utilsdrillp",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\drill-path.js"
+			],
+			[
+				"drillpathjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\drill-path.js"
+			],
+			[
+				"dimtabsjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension-tabs\\dimension-tabs.js"
+			],
+			[
+				"statistjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\src\\data\\statistics.js"
+			],
+			[
+				"apiapijs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\src\\api\\api.js"
+			],
+			[
+				"dataroijs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\data\\roi.js"
+			],
+			[
+				"dataroi",
+				"Geotopia\\Model\\Data\\Segment\\DataEntities\\Scenes\\Objects\\Info\\ArtifactObjInfo.cs"
+			],
+			[
+				"buildjs",
+				"Admin\\Web\\Scripts\\src\\bower_components\\mutations\\build\\build.js"
+			],
+			[
+				"dimtabh",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\dimension-tabs\\dimension-tabs.html"
+			],
+			[
+				"appinclu",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\app-includes.js"
+			],
+			[
+				"angular",
+				"Admin\\Web\\Scripts\\angularjs\\angular.js"
+			],
+			[
+				"asseti",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-image\\asset-image.html"
+			],
+			[
+				"appinclude",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\app-includes.js"
+			],
+			[
+				"assetimht",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-image\\asset-image.html"
+			],
+			[
+				"assetima",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-image\\asset-image.js"
+			],
+			[
+				"contextcleaner",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\context\\cleaner.js"
+			],
+			[
+				"contradvertjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\tracker\\controllers\\advertising.js"
+			],
+			[
+				"baseview",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\base-view.js"
+			],
+			[
+				"baseviewjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\base-view.js"
+			],
+			[
+				"advertjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\tracker\\controllers\\advertising.js"
+			],
+			[
+				"markludes",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\marketing-includes.js"
+			],
+			[
+				"roiscop",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\mutation\\roi-scope-to-query.js"
+			],
+			[
+				"roiscopet",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\mutation\\roi-scope-to-query.js"
+			],
+			[
+				"adverth",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\tracker\\resources\\templates\\advertising.html"
+			],
+			[
+				"hierap",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\hierarchy\\application.js"
+			],
+			[
+				"dirowners",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\owners\\owners.js"
+			],
+			[
+				"hierapp",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\hierarchy\\application.js"
+			],
+			[
+				"marketingutilsconversion",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\utils\\conversion.js"
+			],
+			[
+				"attributions",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\attributions\\attributions.js"
+			],
+			[
+				"advhtm",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\tracker\\resources\\templates\\advertising.html"
+			],
+			[
+				"hierar",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\hierarchy\\application.js"
+			],
+			[
+				"markapi",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\configs\\api.js"
+			],
+			[
+				"datausersjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\data\\users.js"
+			],
+			[
+				"hieraapp",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\hierarchy\\application.js"
+			],
+			[
+				"ngselectl",
+				"Admin\\Web\\Scripts\\src\\bower_components\\ng-select-link\\ng-select-link.js"
+			],
+			[
+				"networks.js",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\data\\networks.js"
+			],
+			[
+				"ngsele",
+				"Admin\\Web\\Scripts\\src\\bower_components\\ng-select-link\\ng-select-link.js"
+			],
+			[
+				"direnetworksjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\networks\\networks.js"
+			],
+			[
+				"roi.js",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\controllers\\roi.js"
+			],
+			[
+				"preffilter",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\prefs\\filter.js"
+			],
+			[
+				"prefgrid",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\prefs\\grid.js"
+			],
+			[
+				"scopt",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\mutation\\roi-scope-to-query.js"
+			],
+			[
+				"scopto",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\mutation\\roi-scope-to-query.js"
+			],
+			[
+				"scopeto",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\mutation\\roi-scope-to-query.js"
+			],
+			[
+				"roij",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\controllers\\roi.js"
+			],
+			[
+				"finclude",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\filter\\filter-includes.js"
+			],
+			[
+				"fitemappljs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\filter\\resources\\directives\\filter-item-application\\filter-item-application.js"
+			],
+			[
+				"fitem",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\filter\\resources\\directives\\filter-item-application\\filter-item-application.html"
+			],
+			[
+				"direcaffiliates",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\affiliates\\affiliates.js"
+			],
+			[
+				"webcspro",
+				"Admin\\Web\\Web.csproj"
+			],
+			[
+				"timelinev",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\timeline-view\\timeline-view.js"
+			],
+			[
+				"payclu",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\payments-includes.js"
+			],
+			[
+				"annotool",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\annotation-tooltip\\annotation-tooltip.js"
+			],
+			[
+				"comparison-tooltip",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\comparison-tooltip\\comparison-tooltip.js"
+			],
+			[
+				"otestach",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\object-template\\statistic-chart.js"
+			],
+			[
+				"dicompach",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\comparison-chart\\comparison-chart.js"
+			],
+			[
+				"annog",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\annotations\\resources\\directives\\annotations-grid\\annotations-grid.js"
+			],
+			[
+				"annod",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\annotations\\resources\\directives\\annotations-drawer\\annotations-drawer.js"
+			],
+			[
+				"compach",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\comparison-chart\\comparison-chart.js"
+			],
+			[
+				"compachjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\comparison-chart\\comparison-chart.js"
+			],
+			[
+				"drawerjs",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\annotations\\resources\\directives\\annotations-drawer\\annotations-drawer.js"
+			],
+			[
+				"annodraw",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\annotations\\resources\\directives\\annotations-drawer\\annotations-drawer.js"
+			],
+			[
+				"otplann",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\object-template\\annotations-chart.js"
+			],
+			[
+				"annochart",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\helper\\annotations-chart.js"
+			],
+			[
+				"web.config",
+				"Admin\\Web\\Web.config"
+			],
+			[
+				"helprecompa",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\helper\\comparison-chart.js"
+			],
+			[
+				"dircompach",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\resources\\directives\\comparison-chart\\comparison-chart.js"
+			],
+			[
+				"helperanno",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\helper\\annotations-chart.js"
+			],
+			[
+				"timelineview",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\timeline-view\\timeline-view.js"
+			],
+			[
+				"objecttemplates",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\payments\\src\\object-template\\annotations-chart.js"
+			],
+			[
+				"appcludes",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\app-includes.js"
+			],
+			[
+				"directivelabel",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\directives\\dimension-label\\dimension-label.js"
+			],
+			[
+				"label",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\admin\\resources\\directives\\label-list\\label-list.js"
+			],
+			[
+				"assetlabel",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-label\\asset-label.html"
+			],
+			[
+				"appludes",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\app-includes.js"
+			],
+			[
+				"markconfapi",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\resources\\configs\\api.js"
+			],
+			[
+				"mardataapplication",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\marketing\\src\\data\\applications.js"
+			],
+			[
+				"web.",
+				"Admin\\Web\\Web.config"
+			],
+			[
+				"appincl",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\app-includes.js"
+			],
+			[
+				"assimh",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-image\\asset-image.html"
+			],
+			[
+				"assimage",
+				"Admin\\Web\\Scripts\\src\\app\\modules\\app\\resources\\directives\\asset-image\\asset-image.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

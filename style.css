@@ -1,0 +1,7 @@
+table.com-grid {
+  border-collapse: collapse;
+}
+
+.com-grid td, .com-grid th {
+  border: 1px solid #aaa;
+}
